@@ -1,0 +1,31 @@
+{
+    "_id":"c-15",
+    "_parentId":"b-10",
+    "_type":"component",
+    "_component":"phaserGame",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Title of the component",
+    "displayTitle": "Title of the component",
+    "body": "This is optional body text.",
+    "instruction": "Instruction text",
+     "_media": {
+        "id": "gameContainer"
+    },
+    "displayTitleReduced": "Reduced title",
+    "bodyReduced": "Reduced text",
+    "_reducedText": {
+        "_isEnabled": true
+    },
+    "_audio": {
+        "_isEnabled": true,
+        "_showControls": true,
+        "_autoplay": true,
+        "_channel": 0,
+        "_location": "",
+        "_media": {
+            "desktop": "course/en/audio/***.mp3",
+            "mobile": "course/en/audio/***.mp3"
+        }
+    }
+}

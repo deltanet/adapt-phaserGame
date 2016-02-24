@@ -1,0 +1,21 @@
+{
+  "name": "adapt-phaserGame",
+  "version": "2.0.0",
+  "framework": "2.0.4",
+  "homepage": "https://github.com/deltanet/adapt-phaserGame",
+  "issues": "https://github.com/deltanet/adapt-phaserGame/issues",
+  "displayName": "Phaser Game",
+  "component": "phaserGame",
+  "assetFields" : [
+    "_media.ogv",
+    "_media.mp4",
+    "_media.poster"
+  ],
+  "description": "Component that loads a Phaser element",
+  "main": "/js/adapt-phaserGame.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
